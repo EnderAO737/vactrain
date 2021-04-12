@@ -41,18 +41,15 @@ Makefile hasn't been implemented yet, just compile the vactrain.nml
 3.1 Obtaining the source
 ------------------------
 
-The source code can be obtained from the fork's GitHub page.
-
-https://github.com/WORD559/vactrain
+The source code can be obtained from the GitHub page.
+https://github.com/EmperorJake/vactrain
 
 
 ---------
 4 Credits
 ---------
 
-Original Author: Jake Dander (Emperor Jake) using elements of code by Terkhen, planetmaker, Transportman, FooBar and possibly others
-
-Forked by: WORD559
+Original Author: Jakob Karl (Emperor Jake) using elements of code by Terkhen, planetmaker, Transportman, FooBar and possibly others
 
 Artists:
 Tracks from FS_Maglev by Froix
@@ -67,7 +64,7 @@ Trains by Emperor Jake, Voyager One, Erato, DJ Nekkid
 ---------------
 
 The Vactrain Set
-(c) 2018 Emperor Jake and others
+(c) 2021 Emperor Jake and others
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
