@@ -1611,9 +1611,9 @@ item (FEAT_TRAINS, tsv_1, 154) {
   name: string(STR_NAME_FRENCH_1);
   climates_available: ALL_CLIMATES;
   introduction_date: date(param_starting_year+15,1,1);
-  speed: 2000000000 km/h;
+  speed: 65000 km/h;
   air_drag_coefficient: 0;
-  power: 9000000000 hp;
+  power: 65000 hp;
   dual_headed: 1;
   engine_class: ENGINE_CLASS_MAGLEV;
   cargo_capacity: 10;
